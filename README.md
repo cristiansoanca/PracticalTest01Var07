@@ -1,1 +1,2 @@
-# PracticalTest01Var07
+Soanca Cristian-Adrian
+342C2
